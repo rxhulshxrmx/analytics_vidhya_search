@@ -1,2 +1,13 @@
-# analytics_vidhya_search
-Smart search system for finding free courses on Analytics Vidhya's platform. It uses natural language processing to understand your query and find the most relevant courses.
+---
+title: Analytics Vidhya Search
+emoji: 💬
+colorFrom: yellow
+colorTo: purple
+sdk: gradio
+sdk_version: 5.0.1
+app_file: app.py
+pinned: false
+short_description: Smart search system for finding free courses
+---
+
+An example chatbot using [Gradio](https://gradio.app), [`huggingface_hub`](https://huggingface.co/docs/huggingface_hub/v0.22.2/en/index), and the [Hugging Face Inference API](https://huggingface.co/docs/api-inference/index).

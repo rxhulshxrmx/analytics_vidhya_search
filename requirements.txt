@@ -1,0 +1,7 @@
+gradio==3.50.2
+sentence-transformers==2.2.2
+pandas==1.5.3
+numpy==1.24.3
+huggingface-hub==0.16.4
+transformers==4.30.2
+torch==2.0.1
