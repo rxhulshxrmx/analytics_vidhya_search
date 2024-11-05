@@ -1,5 +1,7 @@
 # Analytics Vidhya Free Course Search
 
+https://huggingface.co/spaces/rxhulshxrmx/analytics_vidhya_search
+
 This is a smart search system for finding free courses on Analytics Vidhya's platform. It uses natural language processing to understand your query and find the most relevant courses.
 
 ## Features
